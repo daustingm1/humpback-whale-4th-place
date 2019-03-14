@@ -22,10 +22,12 @@ download the competition train/test files and folders into whale/input
 
 unzip mask_predictions_test_4.zip
 unzip mask_predictions_train_known_4.zip
+```
+
 
 copy all images !=new_whale from train into the folder: train_specific
 copy all images from train into folder: val
-```
+
 #### Keypoint matching:
 
 ```
