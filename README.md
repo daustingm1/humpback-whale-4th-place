@@ -17,9 +17,12 @@ cuddn 7.3
 ```
 mkdir -p whale/input
 cd whale/input
+```
+
 
 download the competition train/test files and folders into whale/input
 
+```
 unzip mask_predictions_test_4.zip
 unzip mask_predictions_train_known_4.zip
 ```
