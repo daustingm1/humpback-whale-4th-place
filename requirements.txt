@@ -22,7 +22,7 @@ ImageHash==4.0
 imgaug==0.2.6
 imutils==0.5.2
 ipykernel==5.1.0
-ipython==7.1.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.13.1
