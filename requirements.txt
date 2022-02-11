@@ -66,7 +66,7 @@ pox==0.2.4
 ppft==1.6.4.8
 prometheus-client==0.4.2
 prompt-toolkit==2.0.7
-protobuf==3.6.1
+protobuf==3.15.0
 ptyprocess==0.6.0
 Pygments==2.2.0
 pyparsing==2.3.0
