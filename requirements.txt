@@ -50,7 +50,7 @@ multiprocess==0.70.6.1
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-notebook==5.7.0
+notebook==6.4.10
 numba==0.40.1
 numpy==1.15.4
 opencv-contrib-python==3.4.3.18
